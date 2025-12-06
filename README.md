@@ -36,7 +36,8 @@ Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 Clonar el repositorio:
 
-git clone [https://github.com/](https://github.com/)[TU_USUARIO]/domeservice-gt.git
+git clone [https://github.com/D-Jose04/Proyecto_Ingenier-a-de-Software-aplicada-al-desarrollo-web.git]
+
 
 
 Instalar dependencias:
@@ -82,8 +83,8 @@ Cliente
 
 👤 Autor
 
-[TU NOMBRE COMPLETO]
+José Manuel Jolón Perez
 
-Carné: [TU NUMERO DE CARNÉ]
+Carné: [202404693]
 
 Curso: Desarrollo Web - Universidad da Vinci de Guatemala
